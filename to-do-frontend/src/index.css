@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 1.5rem;
+  background-color: #c3ebf2;
+  background-image: url("https://cdn.allwallpaper.in/wallpapers/1920x1080/13659/very-cool-blue-sky-1920x1080-wallpaper.jpg");
+  color : #fdfdfd
+}
+
+.blk{
+  color: #1f1f1f
+}
+.container-2{
+  width: 70%;
+  background-color: #1f1f1f;
+  height: 100%;
+  
+}
+
+.hiddenbutton{
+  border:none;
+  background: none;
+  color: inherit;
+  padding: 0;
+}
+
+
+
+
